@@ -1,2 +1,2 @@
 # learn-GitHubActions
-learn-githubActions
+learn-gitHubActions
