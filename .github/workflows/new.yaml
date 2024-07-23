@@ -1,0 +1,9 @@
+name: Self hosted runner
+jobs:
+  DEV:
+    runs-on: self-hosted
+    steps:
+      - run: |
+          pwd
+          ls
+          ip a
