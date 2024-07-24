@@ -6,4 +6,4 @@ jobs:
       - run: |
           pwd
           ls
-          ip a
+          ip a;ls -ltr;
