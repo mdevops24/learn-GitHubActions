@@ -13,6 +13,6 @@ jobs:
           tlsSkipVerify: true
           secrets: |
             kv/data/test MYPASS | mypass ;
-      - run: env
+      #- run: env
 
 
